@@ -32,7 +32,7 @@ Unfortunately my desire to make anything generic and reusable held me back from 
 
 ##### Python (py)
 
-While I did not use this language to create a business application using a framework like django yet, I very much know how to do so.
+While I did not use this language to create a business application using a framework like django yet, I think I know how to do so, as I tried Django once.
 
 We ironically used this language to learn object oriented programming in business school. Since then I adopted this language for use in class tests only, as those are apperantly written on 📄 in schools...
 
