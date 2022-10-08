@@ -72,16 +72,13 @@ Eventough ive never tried to use Spring in enterprice projects, it seems to be s
 
 ##### Unit (Unity, not such a generic Fantasy game..)
 
-structured
-sjkldfgnsioudgnsd
-
 ##### VibeChecker (Idea, Maslov)
 
-##### Valremsharca (Dotnet)
+##### [Valremsharca](https://github.com/themassiveone/valremsharca) (Dotnet)
 
 ##### Project Manager (Dotnet,React)
 
-##### Beardy (Mustache)
+##### [Beardy](https://github.com/themassiveone/beardy) (Dotnet,Mustache)
 
 ##### MetaCode/Layer8 (Idea,Polyglot)
 
@@ -128,8 +125,10 @@ GPU: RTX 2070 SUPER
 lighting: sick
 ```
 
-![lighting image](https://github.com/themassiveone/themassiveone/blob/main/media/lighting.jpeg)
+![lighting image](/media/lighting.jpeg)
 
 Amongst many other things, I also possess 2 cheap Ethernet switches and two 1-Port and a 2-Port Gigabit NIC, which i make use of frequently.
 
 ##### Virtualization
+
+I have
