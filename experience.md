@@ -1,6 +1,6 @@
 ## Experience
 
-During the last few years I build a very wide understanding of most IT Topics.
+During the last few years I build a very wide understanding of most IT topics.
 
 ### Languages
 
@@ -22,7 +22,7 @@ This has become my most used project framework since then and I tried to steadil
 
 ##### Typescript (ts)
 
-Typescript has become a top contender for my favourite Language since early 2022. Its flexible cascading generic Types where way too utility-rich for me to ignore its existence any further.
+Typescript has become a top contender for my favourite language since early 2022. Its flexible cascading generic Types where way too utility-rich for me to ignore its existence any further.
 
 I originally became interested in it while searching for a way to visualize content from my Web APIs, as I steadily learned more about REST APIs. Little Reasearch showed, that learning React.ts + Redux was the prefered way to resolve my problems.
 
@@ -44,15 +44,15 @@ While Im not exactly proud of knowing this language at all, I used it quite a bi
 
 I initially got to know this language during 8th or 9th grade in informatics class. There we recreated serveral sorting algorithms using this language and did primitive websites.
 
-At the beginning of my apprenticeship I was assinged to a project together with a colleague. Essentially we were supposed to create a system to manage IT supplies and create Maps of their storage and usage locations. As I was not familiar with using frameworks and libraries at the time, I wrote my own SPA framework using AJAX calls from scratch using PHP and vanilla Javascript. The project then proceded growing into other levels of complexity as more and more features were added daily. In the end, after almost one year of work, the project was unfortunately scrapped, because the testing team refused to interact with the system. The major reason for this was a similar system, they already purchased, that covered all of their needs. RIP ATPInventory...
+At the beginning of my apprenticeship I was assinged to a project together with a colleague. Essentially we were supposed to create a system to manage IT supplies and create maps of their storage and usage locations. As I was not familiar with using frameworks and libraries at the time, I wrote my own SPA framework using AJAX calls from scratch using PHP and vanilla Javascript. The project then proceded growing into other levels of complexity as more and more features were added daily. In the end, after almost one year of work, the project was unfortunately scrapped, because the testing team refused to interact with the system. The major reason for this was a similar system, they already purchased, that covered all of their needs. RIP ATPInventory... ☠️
 
-During the last year of my apprenticeship I was part of a team, which created a new alternative for the companys Online Shop. I was introduced into this project, which was based on the PHP framework OpenCart. Eventhough my part was limited to a single module, I extended the basic functionality of said Framework in order to allow for communications (Configuration Merges) between multiple versions of this kind of hosted development environment. In the end I didnt experience the completion of this project, as I left said company.
+During the last year of my apprenticeship I was part of a team, which created a new alternative for the companys Online Shop. I was introduced into this project, which was based on the PHP framework OpenCart. Eventhough my part was limited to a single module, I extended the basic functionality of said Framework in order to allow for communications (Configuration Merges) between multiple versions of this kind of hosted development environments. In the end I didnt experience the completion of this project, as I left said company.
 
 Afterwards I proceeded not to interact with this language ever again.
 
 ##### JavaScript (js)
 
-As already mentioned before, JavaScript was a big part of probably the most time intensive project I ever worked on. Therefore Im very familiar with vanilla JavaScript. My biggest achievent using vanilla Javascript at the time was creating an webbased alternative to Microsoft Visio, that was integrated into said application.
+As already mentioned before, JavaScript was a big part of probably the most time intensive project I ever worked on. Therefore Im very familiar with vanilla JavaScript. My biggest achievent using vanilla Javascript at the time was creating a webbased alternative to Microsoft Visio, that was integrated into said application.
 
 Whenever i learned Typescript Redux, I was confronted with functional Javascript. Watching Courses by https://codewithmosh.com/ helped enormously at the time, as I have never been confronted with this paradigm before. Functional programming became a big part of future improvements to my style of writing code, as I adopted more and more systems like fluent Interfaces and the strategy pattern.
 
@@ -62,4 +62,74 @@ Whenever i learned Typescript Redux, I was confronted with functional Javascript
 
 Well, as everybody else already said before, its just like C#. While this is not exactly true, there a lot of equal syntax elements. For some weird reason, its still the prefered way to teach object oriented programming to students around the world.
 
-Eventough ive never tried to use Spring in enterprice projects, it seems to be similar to ASP.NET, Rails and Django. Therefore I predict a very shallow learning curve, if it ever comes down to getting it to know.
+Eventough ive never tried to use Spring in enterprice projects, it seems to be similar to ASP.NET, Rails and Django. Therefore I predict a very shallow learning curve, if it ever comes down to getting to know it.
+
+### Encompassing Projects
+
+##### Age of Monsters (Scratch)
+
+##### A generic Fantasy Game (Unity)
+
+##### Unit (Unity, not such a generic Fantasy game..)
+
+structured
+sjkldfgnsioudgnsd
+
+##### VibeChecker (Idea, Maslov)
+
+##### Valremsharca (Dotnet)
+
+##### Project Manager (Dotnet,React)
+
+##### Beardy (Mustache)
+
+##### MetaCode/Layer8 (Idea,Polyglot)
+
+### Homelab
+
+My homelabbing experience has been [erratic](https://www.google.com/search?client=firefox-b-d&q=erratic) to say the least. As I researched certain topics my interest repeatedly shifted spontaneously throughout the years.
+
+##### Topology
+
+##### Bare Metal
+
+I received my first server from a family friend as a gift. Its a **Fujitsu Primergy Tower** with the following specs:
+
+```
+CPU: Intel® Xeon® CPU E3-1226 v3
+Mainboard: FUJITSU D3219-A1
+Storage: 2x Seagate ST1000DM003
+```
+
+Additionally i received my families old **FritzBox 7490** to use freely. Unfortunately its operatingsystem is irreplaceable, so it cannot be used as a router or layer3 switch in a professional scense. Eventhough this is the case, it can still be used a WIFI Access Point.
+
+At one point in time, I decided to purshase a **Raspi** as a utility server or IOT device. I never realy regreted this deciscion.
+
+```
+Device: Rasberry PI Model 4b
+Memory: 4GB
+Storage: San Disk 32gb microSD card
+```
+
+While I was all in for upgrading my gaming rig at some other point in time, I was left with spare hardware parts, which I deemed to be worthwhile the little effort, to assembly **a secondary tower server** out of them.
+
+```
+Mainboard: Asus H81M-PLUS
+CPU: Intel® Core™ i5-4590
+```
+
+I will add my own **gaming rig** in here as i (mis)used it as a VM-Host for quite some time aswell.
+
+```
+Mainboard: Asus X570F Gaming
+CPU: Ryzon 3700x
+RAM: 32gb G.Skill Aegis DDR4-3200
+GPU: RTX 2070 SUPER
+lighting: sick
+```
+
+![lighting image](https://github.com/themassiveone/themassiveone/blob/main/media/lighting.jpeg)
+
+Amongst many other things, I also possess 2 cheap Ethernet switches and two 1-Port and a 2-Port Gigabit NIC, which i make use of frequently.
+
+##### Virtualization
