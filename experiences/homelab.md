@@ -2,7 +2,7 @@
 
 My homelabbing experience has been [erratic](https://www.google.com/search?client=firefox-b-d&q=erratic) to say the least. As I researched certain topics my interest repeatedly shifted spontaneously throughout the years.
 
-## Networking
+## Networking (section incomplete)
 
 ##### DNS
 
@@ -10,7 +10,7 @@ My homelabbing experience has been [erratic](https://www.google.com/search?clien
 
 ##### Topology
 
-## Virtualization
+## Virtualization (section incomplete)
 
 Throughout the years, I gathered alot of experience with many different kinds of virtualization techniques.
 
@@ -52,7 +52,7 @@ Initially I hosted a PVE node virtually on my Unraid Server, as this seemed to b
 
 ##### VMWare VSphere cluster
 
-## DevOps
+## DevOps (section incomplete)
 
 ##### Kubernetes
 
