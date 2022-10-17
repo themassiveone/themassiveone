@@ -8,7 +8,7 @@ Im currently studying Informatics at Heinrich Heine University in Düsseldorf, G
 
 I also recently successfully completed an Apprenticeship as a Specialized Computer Scientist in Software Development.
 
-If you want to learn more about me as a professional, please take a look at one of my experiences:
+If you want to learn more about me as a professional, please take a look at one of my experiences (FULL DOCUMENTATION IS WORK IN PROGRESS):
 
 - [Software Development](/experiences/softwareDevelopment.md)
 - [Homelab](/experiences/homelab.md)
