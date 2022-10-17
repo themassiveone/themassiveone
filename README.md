@@ -8,7 +8,10 @@ Im currently studying Informatics at Heinrich Heine University in Düsseldorf, G
 
 I also recently successfully completed an Apprenticeship as a Specialized Computer Scientist in Software Development.
 
-If you want to learn more about me as a professional, please take a look at my [Experience](https://github.com/themassiveone/themassiveone/blob/main/experience.md). I tried to be as honest as I could ever be.
+If you want to learn more about me as a professional, please take a look at one of my experiences:
+
+- [Software Development](/experiences/softwareDevelopment.md)
+- [Homelab](/experiences/homelab.md)
 
 If you instead want to learn more about me as a human, feel free to contact me wherever.
 

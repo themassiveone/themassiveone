@@ -1,8 +1,6 @@
-## Experience
+# Software Development Experience
 
-During the last few years I build a very wide understanding of most IT topics.
-
-### Languages
+## Languages
 
 Most common languages are familiar to me syntactically. Some of them are especially well known to me.
 
@@ -26,7 +24,7 @@ Typescript has become a top contender for my favourite language since early 2022
 
 I originally became interested in it while searching for a way to visualize content from my Web APIs, as I steadily learned more about REST APIs. Little Reasearch showed, that learning React.ts + Redux was the prefered way to resolve my problems.
 
-In order to start my journey into the modern world of frontends, I decided to watch Courses on https://codewithmosh.com/. I learned how to create React Applications using Typescript, how to properly manage state using Redux/React-Contexts and how to create cross device-class compatible Applications using React-Native. To aid the learning effect of those courses, I created serveral frontend projects, in which I was very involved in at the time.
+In order to start my journey into the modern world of frontends, I decided to watch courses on https://codewithmosh.com/. I learned how to create React Applications using Typescript, how to properly manage state using Redux/React-Contexts and how to create cross device-class compatible Applications using React-Native. To aid the learning effect of those courses, I created serveral frontend projects, in which I was very involved in at the time.
 
 Unfortunately my desire to make anything generic and reusable held me back from completing any of those projects. I definitely learned a lesson from that nevertheless.
 
@@ -64,13 +62,13 @@ Well, as everybody else already said before, its just like C#. While this is not
 
 Eventough ive never tried to use Spring in enterprice projects, it seems to be similar to ASP.NET, Rails and Django. Therefore I predict a very shallow learning curve, if it ever comes down to getting to know it.
 
-### Encompassing Projects
+## Encompassing Projects
 
 ##### Age of Monsters (Scratch)
 
-##### A generic Fantasy Game (Unity)
+##### A generic fantasy Game (Unity)
 
-##### Unit (Unity, not such a generic Fantasy game..)
+##### Unit (Unity, not such a generic fantasy game..)
 
 ##### VibeChecker (Idea, Maslov)
 
@@ -82,53 +80,18 @@ Eventough ive never tried to use Spring in enterprice projects, it seems to be s
 
 ##### MetaCode/Layer8 (Idea,Polyglot)
 
-### Homelab
+## Development Environments
 
-My homelabbing experience has been [erratic](https://www.google.com/search?client=firefox-b-d&q=erratic) to say the least. As I researched certain topics my interest repeatedly shifted spontaneously throughout the years.
+##### Notepad++
 
-##### Topology
+##### Visual Studio
 
-##### Bare Metal
+##### Jetbrains PHPStorm + Datagrip
 
-I received my first server from a family friend as a gift. Its a **Fujitsu Primergy Tower** with the following specs:
+##### Jetbrains Rider
 
-```
-CPU: Intel® Xeon® CPU E3-1226 v3
-Mainboard: FUJITSU D3219-A1
-Storage: 2x Seagate ST1000DM003
-```
+##### Jetbrains Projector & Gateway
 
-Additionally i received my families old **FritzBox 7490** to use freely. Unfortunately its operatingsystem is irreplaceable, so it cannot be used as a router or layer3 switch in a professional scense. Eventhough this is the case, it can still be used a WIFI Access Point.
+##### VSCode
 
-At one point in time, I decided to purshase a **Raspi** as a utility server or IOT device. I never realy regreted this deciscion.
-
-```
-Device: Rasberry PI Model 4b
-Memory: 4GB
-Storage: San Disk 32gb microSD card
-```
-
-While I was all in for upgrading my gaming rig at some other point in time, I was left with spare hardware parts, which I deemed to be worthwhile the little effort, to assembly **a secondary tower server** out of them.
-
-```
-Mainboard: Asus H81M-PLUS
-CPU: Intel® Core™ i5-4590
-```
-
-I will add my own **gaming rig** in here as i (mis)used it as a VM-Host for quite some time aswell.
-
-```
-Mainboard: Asus X570F Gaming
-CPU: Ryzon 3700x
-RAM: 32gb G.Skill Aegis DDR4-3200
-GPU: RTX 2070 SUPER
-lighting: sick
-```
-
-![lighting image](/media/lighting.jpeg)
-
-Amongst many other things, I also possess 2 cheap Ethernet switches and two 1-Port and a 2-Port Gigabit NIC, which i make use of frequently.
-
-##### Virtualization
-
-I have
+##### VIM
