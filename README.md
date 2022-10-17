@@ -6,7 +6,7 @@ Im a mostly self taught Software Engineer and a very pationate Homelabber, who e
 
 Im currently studying Informatics at Heinrich Heine University in Düsseldorf, Germany.
 
-I also recently successfully completed an Apprenticeship as a Specialized Computer Scientist in Software Development.
+I also recently successfully completed an apprenticeship as a Specialized Computer Scientist in Software Development.
 
 If you want to learn more about me as a professional, please take a look at one of my experiences (FULL DOCUMENTATION IS WORK IN PROGRESS):
 
