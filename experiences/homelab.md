@@ -87,7 +87,9 @@ Mainboard: Asus H81M-PLUS
 CPU: Intel® Core™ i5-4590
 ```
 
-I will add my own **gaming rig** in here as i (mis)used it as a VM-Host for quite some time aswell.
+Amongst many other things, I also possess 2 cheap Ethernet switches and two 1-Port and a 2-Port Gigabit NIC, which i make use of frequently.
+
+I will also add my own **gaming rig** in here as i (mis)used it as a VM-Host for quite some time aswell.
 
 ```
 Mainboard: Asus X570F Gaming
@@ -99,4 +101,4 @@ lighting: sick
 
 ![lighting image](/media/lighting.jpeg)
 
-Amongst many other things, I also possess 2 cheap Ethernet switches and two 1-Port and a 2-Port Gigabit NIC, which i make use of frequently.
+
