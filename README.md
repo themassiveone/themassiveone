@@ -17,8 +17,7 @@ If you instead want to learn more about me as a human, feel free to contact me w
 
 ## Follow me around
 
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mass-daniel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/mass-daniel?trk=profile-badge">Daniel Mass</a></div>
-              
+- LinkedIn: https://www.linkedin.com/in/mass-daniel/
 - Stackoverflow: https://stackoverflow.com/users/18392571/themassiveone
 - DockerHub: https://hub.docker.com/u/themassiveone
 - IRL: pls do not...
