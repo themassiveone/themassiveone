@@ -18,7 +18,7 @@ If you instead want to learn more about me as a human, feel free to contact me w
 # Stats
 ![themassiveone's GitHub stats](https://github-readme-stats.vercel.app/api?username=themassiveone&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themassiveone&langs_count=8)](https://github.com/themassiveone)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themassiveone&theme=transparent&langs_count=8)](https://github.com/themassiveone)
 
 # TechStack
 
