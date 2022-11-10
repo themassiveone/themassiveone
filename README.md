@@ -16,7 +16,7 @@ If you want to learn more about me as a professional, please take a look at one 
 If you instead want to learn more about me as a human, feel free to contact me wherever.
 
 # Stats
-https://github-readme-stats.vercel.app/api?username={themassiveone}
+![themassiveone's GitHub stats](https://github-readme-stats.vercel.app/api?username=themassiveone&show_icons=true&theme=transparent)
 
 # TechStack
 
