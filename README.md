@@ -20,6 +20,10 @@ If you instead want to learn more about me as a human, feel free to contact me w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themassiveone&theme=transparent&langs_count=8)](https://github.com/themassiveone)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themassiveone&theme=radical) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themassiveone&theme=github-dark)](https://git.io/streak-stats)
+
 # TechStack
 
 ### CICD
