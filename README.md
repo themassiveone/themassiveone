@@ -15,14 +15,14 @@ If you want to learn more about me as a professional, please take a look at one 
 
 If you instead want to learn more about me as a human, feel free to contact me wherever.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthemassiveone%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # Stats
-![themassiveone's GitHub stats](https://github-readme-stats.vercel.app/api?username=themassiveone&show_icons=true&theme=transparent)
+![themassiveone's GitHub stats](https://github-readme-stats.vercel.app/api?username=themassiveone&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themassiveone&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themassiveone&theme=transparent&langs_count=8)](https://github.com/themassiveone)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themassiveone&theme=dark&langs_count=8)](https://github.com/themassiveone)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themassiveone&theme=radical) 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themassiveone&theme=github-dark)](https://git.io/streak-stats)
 
 # TechStack
 
