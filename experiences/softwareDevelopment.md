@@ -81,19 +81,3 @@ Eventough ive never tried to use Spring in enterprice projects, it seems to be s
 ##### MetaCode/Layer8 (Idea,Polyglot)
 
 
-
-## Development Environments (section incomplete)
-
-##### Notepad++
-
-##### Visual Studio
-
-##### Jetbrains PHPStorm + Datagrip
-
-##### Jetbrains Rider
-
-##### Jetbrains Projector & Gateway
-
-##### VSCode
-
-##### VIM
