@@ -2,13 +2,13 @@
 
 Hey 👋, its me - Daniel Mass.
 
-Im a mostly self taught Software Engineer and a very pationate Homelabber, who enjoys learning new things about modern business practices, agile Development, DevOps, Networking and Data Science in his freetime.
+Im a mostly self taught Software Engineer and a very pationate Homelabber, who enjoys extending his skillset in his freetime.
 
 Im currently studying Informatics at Heinrich Heine University in Düsseldorf, Germany.
 
 I also recently successfully completed an apprenticeship as a Specialized Computer Scientist in Software Development.
 
-If you want to learn more about me as a professional, please take a look at one of my experiences (FULL DOCUMENTATION IS WORK IN PROGRESS):
+If you want to learn more about me as a professional, please take a look at one of my experiences:
 
 - [Software Development](/experiences/softwareDevelopment.md)
 - [Homelab](/experiences/homelab.md)
