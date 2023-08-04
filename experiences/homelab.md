@@ -80,7 +80,7 @@ Memory: 4GB
 Storage: San Disk 32gb microSD card
 ```
 
-While I was all in for upgrading my gaming rig at some other point in time, I was left with spare hardware parts, which I deemed to be worthwhile the little effort, to assembly **a secondary tower server** out of them.
+While I was all in for upgrading my gaming rig at some other point in time, I was left with spare hardware parts, which I deemed to be worthwhile the little effort, to assemble **a secondary tower server** out of them.
 
 ```
 Mainboard: Asus H81M-PLUS
