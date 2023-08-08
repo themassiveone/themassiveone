@@ -2,9 +2,9 @@
 
 Hey 👋, its me - Daniel Mass.
 
-Im a mostly self taught Software Engineer and a very pationate Homelabber, who enjoys extending his skillset at all times.
+Im a mostly self taught Software Engineer and a very pationate Homelabber.
 
-Im currently studying Informatics at Heinrich Heine University in Düsseldorf, Germany.
+Im currently studying Computer Science at Heinrich Heine University in Düsseldorf, Germany.
 
 I also recently successfully completed an apprenticeship as a Specialized Computer Scientist in Software Development.
 
