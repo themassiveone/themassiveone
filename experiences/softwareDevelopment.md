@@ -59,7 +59,7 @@ Whenever i learned Typescript Redux, I was confronted with functional Javascript
 ##### Java (java)
 
 Initially I was not convinced by java, as it seemed to be almost identical to c# to me at first.
-However, discovering the enterprice ecosystem behind c# and practiciing it tirelessly in conjunction with programming practices made me question my original stance.
+However, discovering the enterprice ecosystem behind gradle & spring and practiciing it tirelessly in conjunction with programming practices made me question my original stance.
 
 ## Encompassing Projects (section incomplete)
 
