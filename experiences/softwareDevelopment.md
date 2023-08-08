@@ -6,7 +6,7 @@ Most common languages are familiar to me syntactically. Some of them are especia
 
 ##### C-Sharp (c#,cs)
 
-Its save to say, that people deem C# to be my primary language.
+C# was my primary language for ~3 years.
 
 Initially while dabbling with [Unity](https://unity.com/) I was exposed to it for the first time.
 
@@ -58,9 +58,8 @@ Whenever i learned Typescript Redux, I was confronted with functional Javascript
 
 ##### Java (java)
 
-Well, as everybody else already said before, its just like C#. While this is not exactly true, there a lot of equal syntax elements. For some weird reason, its still the prefered way to teach object oriented programming to students around the world.
-
-Eventough ive never tried to use Spring in enterprice projects, it seems to be similar to ASP.NET, Rails and Django. Therefore I predict a very shallow learning curve, if it ever comes down to getting to know it.
+Initially I was not convinced by java, as it seemed to be almost identical to c# to me at first.
+However, discovering the enterprice ecosystem behind c# and practiciing it tirelessly in conjunction with programming practices made me question my original stance.
 
 ## Encompassing Projects (section incomplete)
 
