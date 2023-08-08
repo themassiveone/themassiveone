@@ -2,7 +2,7 @@
 
 ## Languages
 
-Most common languages are familiar to me syntactically. Some of them are especially well known to me.
+Im most familiar with c# and typescript.
 
 ##### C-Sharp (c#,cs)
 
@@ -32,11 +32,9 @@ After working on a startup project for 200h+, implementing & abstracting redux t
 
 ##### Python (py)
 
-While I did not use this language to create a business application using a framework like django yet, I think I know how to do so, as I tried Django once.
+We ironically used this language to learn object oriented programming in business school. Since then I adopted this language for use in exams only, as those are apperantly still written on 📄 in schools & uni...
 
-We ironically used this language to learn object oriented programming in business school. Since then I adopted this language for use in class tests only, as those are apperantly written on 📄 in schools...
-
-I also took a sneak peak into the world of Jupyter Notebooks. At this time I became very interested in Data Science using notebooks with Tensorflow doing some basic Mashine Learning. I never praticed this consistently yet though, as Im missing a bit of knowledge about higher math functions and systems. Im looking forward to get to know those things at the university.
+Anyways... I would like to practice it with regards to jupyter notebooks in the future...
 
 ##### PHP (php)
 
