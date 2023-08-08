@@ -20,13 +20,15 @@ This has become my most used project framework since then and I tried to steadil
 
 ##### Typescript (ts)
 
-Typescript has become a top contender for my favourite language since early 2022. Its flexible cascading generic Types where way too utility-rich for me to ignore its existence any further.
+Typescript has become a top contender for my favourite language since early 2022. Its flexible cascading generic Types were way too utility-rich for me to ignore its existence any further.
 
 I originally became interested in it while searching for a way to visualize content from my Web APIs, as I steadily learned more about REST APIs. Little Reasearch showed, that learning React.ts + Redux was the prefered way to resolve my problems.
 
 In order to start my journey into the modern world of frontends, I decided to watch courses on [code with mosh](https://codewithmosh.com/). I learned how to create React Applications using Typescript, how to properly manage state using Redux/React-Contexts and how to create cross device-class compatible Applications using React-Native. To aid the learning effect of those courses, I created serveral frontend projects, in which I was very involved in at the time.
 
 Unfortunately my desire to make anything generic and reusable held me back from completing any of those projects. I definitely learned a lesson from that nevertheless.
+
+After working on a startup project for 200h+, implementing & abstracting redux toolkit, working with hooks and simply spending huge amounts of braincapcity on this language, I feel way more comfortable with it. 
 
 ##### Python (py)
 
