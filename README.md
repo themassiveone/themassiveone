@@ -4,13 +4,6 @@ Hey 👋, its me - Daniel Mass.
 
 Feel free to have a look at my ![DevDiary](https://github.com/orgs/MassiveCreationLab/discussions)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthemassiveone%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-# Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themassiveone&theme=dark)](https://git.io/streak-stats)
-
-
 # TechStack
 
 ### CICD
@@ -69,11 +62,14 @@ Feel free to have a look at my ![DevDiary](https://github.com/orgs/MassiveCreati
 ![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white)
 
 
+# Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themassiveone&theme=dark)](https://git.io/streak-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthemassiveone%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## Follow me around
 
 - LinkedIn: https://www.linkedin.com/in/mass-daniel/
-- Stackoverflow: https://stackoverflow.com/users/18392571/themassiveone
-- DockerHub: https://hub.docker.com/u/themassiveone
+- Twitter: https://twitter.com/themassiveoneGH
 - IRL: pls do not...
