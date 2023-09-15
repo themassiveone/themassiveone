@@ -2,18 +2,7 @@
 
 Hey 👋, its me - Daniel Mass.
 
-Im a mostly self taught Software Engineer and a very pationate Homelabber.
-
-Im currently studying Computer Science at Heinrich Heine University in Düsseldorf, Germany.
-
-I also recently successfully completed an apprenticeship as a Specialized Computer Scientist in Software Development.
-
-If you want to learn more about me as a professional, please take a look at one of my experiences:
-
-- [Software Development](/experiences/softwareDevelopment.md)
-- [Homelab](/experiences/homelab.md)
-
-If you instead want to learn more about me as a human, feel free to contact me wherever.
+Feel free to have a look at my ![DevDiary}(https://github.com/orgs/MassiveCreationLab/discussions)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthemassiveone%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
