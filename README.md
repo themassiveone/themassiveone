@@ -1,6 +1,6 @@
 ## About me
 
-Hey 👋, its me - Daniel Mass.
+Welcome 👋
 
 Feel free to have a look at my ![DevDiary](https://github.com/orgs/MassiveCreationLab/discussions)
 
