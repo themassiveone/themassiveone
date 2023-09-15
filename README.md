@@ -1,7 +1,9 @@
 ## About me
 
 Hey there👋
+
 I´m a professional software developer, student and entrepreneur - also a human beeing 👽
+
 Feel free to have a look at my ![DevDiary](https://github.com/orgs/MassiveCreationLab/discussions)
 
 # TechStack
