@@ -65,6 +65,7 @@ Feel free to have a look at my ![DevDiary](https://github.com/orgs/MassiveCreati
 # Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themassiveone&theme=dark)](https://git.io/streak-stats)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthemassiveone%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
