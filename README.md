@@ -51,7 +51,7 @@ I´m a professional software developer, student and also a human beeing 👽
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![Mustache](https://img.shields.io/badge/´{´%20mustache-%23000000.svg?style=for-the-badge)
+![Mustache](https://img.shields.io/badge/mustache-%23000000.svg?style=for-the-badge)
 ![Twig](https://img.shields.io/badge/twig-%23000000.svg?style=for-the-badge&logo=Symfony&logoColor=white)
 
 ### UX
