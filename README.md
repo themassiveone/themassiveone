@@ -59,8 +59,6 @@ I´m a professional software developer, student and also a human beeing 👽
 ![Figma](https://img.shields.io/badge/figma-%23333333.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### Deployment
 ![Expo EAS](https://img.shields.io/badge/expo%20eas-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
