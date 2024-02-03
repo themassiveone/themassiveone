@@ -21,10 +21,11 @@ I´m a professional software developer, student and also a human beeing 👽
 ![Express](https://img.shields.io/badge/express.ts-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Testing
+![ArchUnit](https://img.shields.io/badge/ArchUnit-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JUnit](https://img.shields.io/badge/Junit-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Assertj](https://img.shields.io/badge/Assertj-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Nunit](https://img.shields.io/badge/Nunit-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Nunit](https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![NSubstitute](https://img.shields.io/badge/NSubstitude-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman-Tests](https://img.shields.io/badge/Tests-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
