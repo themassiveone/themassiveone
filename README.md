@@ -2,7 +2,7 @@
 
 Hey there👋
 
-I´m a professional software developer, student and also a human beeing 👽
+I´m a professional software developer, student and also a human being 👽
 
 
 # TechStack
