@@ -1,11 +1,18 @@
-## About me
+# About me
 
-Hey there👋
+Hey there 👋
 
 I´m a professional software developer, student and also a human being 👽
 
+## Here are some of my interests:
+- Open Source Collaboration 🤝
+- Software Architecture 🏗️
+- Nixos ❄️
+- Homelab 🔌
+- CI/CD & Automation 🤖
+- Game Development 🎮
 
-# TechStack
+## TechStack
 
 ### Frameworks
 ![.NET MVC Webapi](https://img.shields.io/badge/MVC%20WebApi-512BD4?style=for-the-badge&logo=dotnet)
@@ -94,7 +101,7 @@ I´m a professional software developer, student and also a human being 👽
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
-# Stats
+## Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themassiveone&theme=dark)](https://git.io/streak-stats)
 
