@@ -14,7 +14,7 @@ I´m a professional software developer, student and also a human being 👽
 ![React](https://img.shields.io/badge/react.ts-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Redux Toolkit](https://img.shields.io/badge/RTK-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Unity DOTS](https://img.shields.io/badge/DOTS-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Opencart](https://img.shields.io/badge/opencart-%230099ee.svg?style=for-the-badge&labelColor=black)
@@ -22,9 +22,7 @@ I´m a professional software developer, student and also a human being 👽
 
 ### Testing
 ![ArchUnit](https://img.shields.io/badge/ArchUnit-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JUnit](https://img.shields.io/badge/Junit-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Assertj](https://img.shields.io/badge/Assertj-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot Testing](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Nunit](https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![NSubstitute](https://img.shields.io/badge/NSubstitude-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
