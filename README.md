@@ -7,7 +7,6 @@ I´m a professional software developer, student and also a human being 👽
 ## Here are some of my interests:
 - Open Source Collaboration 🤝
 - Software Architecture 🏗️
-- Nixos ❄️
 - Homelab 🔌
 - CI/CD & Automation 🤖
 - Game Development 🎮
