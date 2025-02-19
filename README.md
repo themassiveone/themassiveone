@@ -9,31 +9,30 @@ Hey there, welcome to my profile 👋
 - CI/CD & Automation 🤖
 - Game Development 🎮
 
-## Current TechStack:
+## Software Engineering
+- C#/.NET (MVC, MVVM, EntityFramework, NSubstitude, MassTransit, Serilog, Unity, Godot)
+- Java/Spring (Spring Web MVC, Spring Data, Spring Security, Mockito, Thymeleaf, ArchUnit)
+- JavaScript/TypeScript (React, NextJS, express, expo (for mobile cross platform), Redux, Zustand, Jest)
 
+## DevOps
+- CI (Github Actions, GitHub ARC, codecov, gameci, DinD)
+- CD (to Kubernetes using ArgoCD, to iOS & Android using fastlane)
+- Distribution (Apple TestFlight, Play Store Beta Tracks)
+- Monitoring/Telemetry (Sentry, Open Telemetry)
+- IaC (kubernetes .yaml, ArgoCD, app-in-app pattern, Terraform for Proxmox/EC2)
+- Infrastructure (Kubernetes, Proxmox Hypervisor Cluster, EC2, OCI)
+- Network (pfSense, Ingress, Nginx)
+- Storage (S3 using MinIO, Ceph, HDFS)
+- Services (Harbor Docker Registry, RabbitMQ, Kafka, Cassandra)
 
-### Frameworks
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![.NET](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet)
-
-### CI
-![Github ARC](https://img.shields.io/badge/Github%20ARC-121013?style=for-the-badge&logo=GithubActions&logoColor=white)
-![gameci](https://img.shields.io/badge/gameci-00804d.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-### CD
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white)
-![Fastlane](https://img.shields.io/badge/FASTLANE-00cc44?style=for-the-badge&logo=Fastlane&logoColor=white)
-
-
-### Infrastructure
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=Proxmox&logoColor=white)
-![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=MinIO&logoColor=white)
-![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![apachekafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![apachecassandra](https://img.shields.io/badge/cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-
+## Data Science, Machine Learning & Big Data Analytics
+- EDA (numpy, pandas, matplotlib, PCA)
+- Machine Learning (sklearn)
+- MrJob / Map Reduce (for data at rest processing)
+- Clustering (k-Means, EM, BFR on big data)
+- Simmilarity Detection (LSH on big data)
+- Stream Processing (Sampling, Bloom Filter, MassTransit)
+- Graph Analysis (networkx, pagerank on big data)
 
 ## Activity:
 
