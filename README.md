@@ -1,13 +1,4 @@
-# About me
-
-Hey there, welcome to my profile 👋
-
-## Here are some of my interests:
-- Open Source Collaboration 🤝
-- Software Architecture 🏗️
-- Homelab 🔌
-- CI/CD & Automation 🤖
-- Game Development 🎮
+# Hey there 👋, welcome to my profile, here is what I do:
 
 ## Software Engineering
 - C#/.NET (MVC, MVVM, EntityFramework, NSubstitude, MassTransit, Serilog, Unity, Godot)
@@ -33,7 +24,3 @@ Hey there, welcome to my profile 👋
 - Simmilarity Detection (LSH on big data)
 - Stream Processing (Sampling, Bloom Filter, MassTransit)
 - Graph Analysis (networkx, pagerank on big data)
-
-## Activity:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themassiveone&theme=dark)](https://git.io/streak-stats)
