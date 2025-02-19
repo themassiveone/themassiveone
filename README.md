@@ -17,7 +17,7 @@ Here is what I do:
 - Storage (S3 using MinIO, Ceph, HDFS)
 - Services (Harbor Docker Registry, RabbitMQ, Kafka, Cassandra)
 
-## Data Science, Machine Learning & Big Data Analytics
+## Data Science, Machine Learning & Big Data Analysis
 - EDA (numpy, pandas, matplotlib, PCA)
 - Machine Learning (sklearn)
 - MrJob / Map Reduce (for data at rest processing)
