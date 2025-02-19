@@ -1,4 +1,5 @@
-# Hey there 👋, welcome to my profile, here is what I do:
+# Hey there 👋
+Here is what I do:
 
 ## Software Engineering
 - C#/.NET (MVC, MVVM, EntityFramework, NSubstitude, MassTransit, Serilog, Unity, Godot)
