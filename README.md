@@ -1,4 +1,5 @@
-# Hey there 👋
+# themassiveone aka Daniel Mass
+Hey there 👋\
 Here is what I do:
 
 ## Software Engineering
