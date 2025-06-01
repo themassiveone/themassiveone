@@ -17,11 +17,12 @@ Here is what I do:
 - Storage (S3 using MinIO, Ceph, HDFS)
 - Services (Harbor Docker Registry, RabbitMQ, Kafka, Cassandra)
 
-## Data Science, Machine Learning & Big Data Analysis
+## Data Science, HPC, Machine Learning & Big Data Analysis
 - EDA (numpy, pandas, matplotlib, PCA)
 - Machine Learning (sklearn)
 - MrJob / Map Reduce (for data at rest processing)
 - Clustering (k-Means, EM, BFR on big data)
 - Simmilarity Detection (LSH on big data)
-- Stream Processing (Sampling, Bloom Filter, MassTransit)
 - Graph Analysis (networkx, pagerank on big data)
+- Stream Processing (Sampling, Bloom Filter, RabbitMQ, Kafka)
+- GPU acceleration (OpenCl, SIMD, JOCL)
